@@ -1,0 +1,30 @@
+Analisar as tendências de vendas ao longo do tempo:;
+;
+;
+;
+;
+;
+Explorar a popularidade das categorias de produtos por região:;
+;
+1) Qual é a categoria de produto mais vendida em cada região?;
+;
+Ásia;Roupas
+América do Norte;Livros
+Europa;Aplicações domésticas
+;
+;
+2) Como as vendas das categorias estão distribuídas por região? ;
+;
+Ásia possui o maior número de compradores, possuindo 233 clientes que moram nessa região, que representa 44,98% da nossa base de dados;
+;
+América do norte possui 180 clientes que moram nessa região, que representa 34,75% da nossa base de dados;
+;
+Europa possui o menor número de compradores, possuindo 105 clientes que moram nessa região, que representa 20,27% da nossa base de dados;
+;
+3) Qual a categoria com maior variação nas vendas entre regiões?;
+;
+A categoria roupas tem a maior variação entre vendas da ásia;
+;
+A categoria aplicações domésticas tem a maior variação entre vendas da europa;
+;
+A categoria eletronicos  tem a maior variação entre vendas da américa do norte;
